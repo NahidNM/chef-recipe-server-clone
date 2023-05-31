@@ -1,0 +1,69 @@
+[
+    {
+      "id": 1,
+      "name": "John Doe",
+      "age": 40,
+      "experience": 15,
+      "totalRecipes": 100,
+      "totalLikes": 5000,
+      "img": "https://10play.com.au/ip/s3/2021/04/14/0d185a25c6ce21fb38efaab75a2c57cd-1048565.jpg?image-profile=bio_full&io=portrait",
+      "bio":"Chef John Doe is a renowned culinary expert with over 8 years of experience in the industry. He has worked in some of the world's top restaurants, earning accolades for his creative and innovative cuisine.",
+      "sex": "Male"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "age": 35,
+      "experience": 10,
+      "totalRecipes": 75,
+      "totalLikes": 2500,
+      "img": "https://10play.com.au/ip/s3/2021/04/14/7a26a2fd337e8ed7f02f9a1793417221-1048502.jpg?image-profile=bio_full&io=portrait",
+      "bio":"Jane Smith is a talented chef with a passion for creating healthy and delicious dishes. She has over a decade of experience in the culinary industry, and has worked in a variety of restaurants and catering companies. ",
+      "sex": "Female"
+    },
+    {
+      "id": 3,
+      "name": "Bob Johnson",
+      "age": 45,
+      "experience": 20,
+      "totalRecipes": 150,
+      "totalLikes": 10000,
+      "img": "https://www.themasterchefs.com/wp-content/uploads/2017/12/edit-2-Vivek.jpg",
+      "bio":"Bob Johnson is a seasoned chef with over 20 years of experience in the culinary world. He has worked in numerous fine dining establishments and has a passion for creating classic dishes with a modern twist.",
+      "sex": "Male"
+    },
+    {
+      "id": 4,
+      "name": "Sara Lee",
+      "age": 30,
+      "experience": 5,
+      "totalRecipes": 50,
+      "totalLikes": 2000,
+      "img": "https://10play.com.au/ip/s3/2021/04/14/1ae5f7603b8b0d5668435a74137b2c36-1048554.jpg?image-profile=bio_full&io=portrait",
+      "bio":"Chef Sara Lee is a highly skilled chef with a passion for creating unique and delicious dishes. With over 15 years of experience in the culinary industry, she has honed her craft in various restaurants and hotels.",
+      "sex": "Female"
+    },
+    {
+      "id": 5,
+      "name": "Adam Jones",
+      "age": 50,
+      "experience": 25,
+      "totalRecipes": 200,
+      "totalLikes": 15000,
+      "img": "https://10play.com.au/ip/s3/2021/04/14/cc89b8d318bc1e1c8e036221aec62609-1048463.jpg?image-profile=bio_full&io=portrait",
+      "bio":"Adam Jones  is a highly skilled and creative chef with over 20 years of experience in the culinary industry. He discovered his passion for cooking at a young age and pursued his dream by attending culinary school. After graduation, he worked in various restaurants and hotels.",
+      "sex": "Male"
+    },
+    {
+      "id": 6,
+      "name": "Lena Garcia",
+      "age": 28,
+      "experience": 3,
+      "totalRecipes": 20,
+      "totalLikes": 800,
+      "img": "https://10play.com.au/ip/s3/2021/04/14/d42b7851528a21a024a2ec459aee3299-1048501.jpg?image-profile=bio_full&io=portrait",
+      "bio":"Lena Garcia is a rising star in the culinary world, with a talent for creating innovative and flavorful dishes. She has been working in the industry for over 5 years, and has quickly gained a reputation for her creative use of ingredients and bold flavor combinations. .",
+      "sex": "Female"
+    }
+  ]
+  
